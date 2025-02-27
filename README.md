@@ -1,4 +1,6 @@
-# Ryujinx-Canary
-Builds of my [Ryujinx fork](https://github.com/GreemDev/Ryujinx) compiled &amp; released after every commit.
+# Ryu-Canary
+Builds of my [Ryu fork](https://github.com/Goodfeat/Ryujinx_alt)
 
-This is mostly for advanced users; regular users should stick to the regular releases.
+You can find my custom builds of this fork here, which include all the latest updates from the main branch [Ryubing](https://github.com/Ryubing/Ryujinx).
+
+
