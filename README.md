@@ -1,9 +1,4 @@
 # Ryu Nightly-Canary
-Nightly builds of my [Ryu fork](https://github.com/Goodfeat/Ryujinx_alt)
+My Nightly-Canary builds based on [Ryuijinx fork](https://ryujinx.app/) by Greemdev
 
-This repository provides nightly builds after each commit for testing purposes only. These builds may differ in functionality from the branch [Ryubing](https://github.com/Ryubing/Ryujinx).
-
-All nightly builds are in the alpha or stable alpha stage.
-
-
-
+These assemblies are created with new functionality that has not yet been included in the main assemblies from Greemdev
